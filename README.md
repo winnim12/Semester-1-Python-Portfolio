@@ -26,3 +26,16 @@ Project 5: Rock Paper Scissors game
 This program allows for the player to play rock, paper, scissors with the computer. The player is also able to play as many times as they like. 
 Key Features:
 -Keeps track of wins, losses, and ties
+
+Project 6: Dog Breeds
+This program allows for users to find sort dog breeds based on their preferences as well as get recommended their perfect dog breed.
+Key Features: 
+-recommends dog breeds
+-opens images of each dog breed
+-sorts by dog size, characteristics, and purpose
+
+Project 7: CREATE Task
+This program allows users to order icecream, milkshakes, and drinks. 
+Key Features:
+-recommends drinks and ice cream flavors
+-can make custom milkshake
