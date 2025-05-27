@@ -28,14 +28,14 @@ Key Features:
 -Keeps track of wins, losses, and ties
 
 Project 6: Dog Breeds
-This program allows for users to find sort dog breeds based on their preferences as well as get recommended their perfect dog breed.
+This program is aimed towards users who are looking for a new pet dog. The users are allowed to find sort dog breeds based on their preferences as well as get recommended their perfect dog breed. 
 Key Features: 
 -recommends dog breeds
 -opens images of each dog breed
 -sorts by dog size, characteristics, and purpose
 
 Project 7: CREATE Task
-This program allows users to order icecream, milkshakes, and drinks. 
+This program is aimed towards younger children or anyone that enjoys Ice Cream parlor games. It allows users to order icecream, milkshakes, and drinks. 
 Key Features:
 -recommends drinks and ice cream flavors
 -can make custom milkshake
